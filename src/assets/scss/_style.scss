@@ -1,0 +1,25 @@
+
+html,
+body,
+#root {
+    height: 100%;
+}
+
+body {
+    background-color: #eef0f2;
+}
+
+.login-form {
+    max-width: 340px;
+}
+
+.register-form {
+    max-width: 440px;
+}
+
+.user-profile {
+    .user-avatar {
+        max-width: 100px;
+        max-height: 100px;
+    }
+}

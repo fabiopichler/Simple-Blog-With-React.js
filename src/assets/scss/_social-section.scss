@@ -1,0 +1,61 @@
+.social {
+    &.header {
+        font-size: 2rem;
+    }
+
+    .mastodon {
+        color: #087cea;
+
+        &:hover {
+            color: #168fff;
+        }
+    }
+
+    .twitter {
+        color: #1d9bf0;
+
+        &:hover {
+            color: #27a9fc;
+        }
+    }
+
+    .facebook {
+        color: #077ae9;
+
+        &:hover {
+            color: #15a4fa;
+        }
+    }
+
+    .github {
+        color: #444;
+
+        &:hover {
+            color: #666;
+        }
+    }
+
+    .linkedin {
+        color: #0077b5;
+
+        &:hover {
+            color: #0088c5;
+        }
+    }
+
+    .instagram {
+        color: #a837a1;
+
+        &:hover {
+            color: #a837a1;
+        }
+    }
+
+    .youtube {
+        color: #fe0000;
+
+        &:hover {
+            color: #ff6060;
+        }
+    }
+}
